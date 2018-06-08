@@ -34,3 +34,5 @@ In the second year of the minor, students study the following topics: database d
 ### CIT 281
 
 [Project 4](https://uo-cit.github.io/project-4-rdemarco19/)
+
+[Project 2](https://uo-cit.github.io/project-2-rdemarco19/)
