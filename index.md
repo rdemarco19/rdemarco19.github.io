@@ -25,6 +25,12 @@ In the first year of the minor students learn IT concepts (such as networks, dat
 In the second year of the minor, students study the following topics: database design, webDev frameworks, computer networks & cyber-security.
 
 ![cit 281](https://pbs.twimg.com/profile_images/641124349395664896/v16rGkuc_400x400.jpg)
+## My Work
 
+[CIS 110](http://pages.uoregon.edu/rdemarco/110/)
+
+[CIS 111](http://pages.uoregon.edu/rdemarco/111/)
+
+### CIT 281
 
 [Project 4](https://uo-cit.github.io/project-4-rdemarco19/)
